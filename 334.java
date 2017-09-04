@@ -1,5 +1,4 @@
-class Solution {
-  
+class Solution { 
     public boolean increasingTriplet(int[] nums) {
         if(nums.length < 3) return false;
         int min = nums[0];
