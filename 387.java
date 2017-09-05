@@ -19,6 +19,5 @@ class Solution {
             }
         }
         return result == schar.length?-1:result;
-    }
-  
+    } 
 }
