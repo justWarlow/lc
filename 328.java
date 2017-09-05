@@ -21,6 +21,5 @@ class Solution {
             even.next = null;
             odd.next = evenStart;
             return head;
-        }
-  
+        } 
 }
